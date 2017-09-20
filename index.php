@@ -1,3 +1,3 @@
 <?php
-echo "local system file";
+echo "file from local";
 ?>
