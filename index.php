@@ -1,3 +1,3 @@
 <?php
-echo "file from local";
+echo "file from web_auto1";
 ?>
